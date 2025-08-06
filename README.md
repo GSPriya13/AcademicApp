@@ -63,7 +63,8 @@ academic_app/
 ├── sample_files/             # Test .pdf/.docx files
 ├── requirements.txt          # Python dependencies
 └── README.md                 # Project documentation
-⚙️ Setup Instructions
+
+### ⚙️ Setup Instructions
 Clone the repository
 
 bash
@@ -92,7 +93,7 @@ Edit
 streamlit run app.py
 
 
-📄 How to Use
+## 📄 How to Use
 Upload or paste your text in the app.
 
 Choose one or more tools:
@@ -105,14 +106,14 @@ Plagiarism Checker: Scan for AI-generated or stylistically inconsistent content.
 
 Review the generated output, compare with original, and export the results if needed.
 
-🎯 Project Goals
+### 🎯 Project Goals
 Provide a one-stop platform for academic content processing.
 
 Promote ethical writing by preventing plagiarism and over-reliance on AI.
 
 Assist non-native English speakers and students in improving their writing clarity and tone.
 
-👩‍💻 Developed By
+### 👩‍💻 Developed By
 Priya G S
 Vaishnavi D
 Preetham K 
@@ -121,5 +122,5 @@ Department of Artificial Intelligence & Data Science,
 K.S. School of Engineering and Management (KSSEM), Bengaluru
 Academic Year: 2024–2025
 
-📜 License
+## 📜 License
 This project is part of an academic submission and is not licensed for commercial reuse without permission.
